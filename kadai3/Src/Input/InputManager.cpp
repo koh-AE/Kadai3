@@ -39,6 +39,10 @@ void InputManager::Init(void)
 	Add(KEY_INPUT_Z);
 	Add(KEY_INPUT_X);
 
+	Add(KEY_INPUT_I);
+	Add(KEY_INPUT_J);
+	Add(KEY_INPUT_K);
+	Add(KEY_INPUT_O);
 	Add(KEY_INPUT_U);
 	Add(KEY_INPUT_L);
 

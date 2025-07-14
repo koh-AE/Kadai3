@@ -1,0 +1,5 @@
+﻿  EnemyBase.cpp
+  GameScene.cpp
+C:\Project\Kadai3\kadai3\Src\Scene\GameScene\GameScene.cpp(141,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  kadai3.vcxproj -> C:\Project\Kadai3\kadai3\x64\Debug\kadai3.exe
